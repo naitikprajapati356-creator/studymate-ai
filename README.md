@@ -1,10 +1,11 @@
-# studymate-ai
 
 # studymate-ai
 
 # StudyMate AI Chatbot 🎓✨
 
 A 3D-enhanced, visually stunning RAG-based chatbot that answers your academic questions using your own uploaded notes, textbooks, and PDFs. Built with LangGraph, Groq, and a beautiful Lexend-based dark theme.
+
+live demo: https://studymate-ai-naitik.streamlit.app/
 
 ## Features
 
